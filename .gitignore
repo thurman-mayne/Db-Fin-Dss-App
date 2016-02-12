@@ -1,0 +1,8 @@
+*.~*
+*.bak
+*.out
+.DS_Store
+
+.idea
+*.iml
+*.swp
