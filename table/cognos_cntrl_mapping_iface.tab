@@ -1,0 +1,12 @@
+create table DSS_APP.COGNOS_CNTRL_MAPPING_IFACE
+(
+  elfa_controller      VARCHAR2(100),
+  elfa_controller_desc VARCHAR2(100),
+  tcs_controller       VARCHAR2(100),
+  tcs_controller_desc  VARCHAR2(100),
+  mstr_acct_id         VARCHAR2(100),
+  conv_factor          NUMBER(4),
+  account_type         VARCHAR2(100)
+)
+;
+

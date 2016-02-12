@@ -1,0 +1,3 @@
+create or replace synonym DSS_APP.XDB14
+  for ACCT_COGNOS.XDB14;
+
